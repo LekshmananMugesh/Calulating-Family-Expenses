@@ -1,5 +1,3 @@
-# Calulating-Family-Expenses
-
 # Overview
 
   The Calculating Family Expenses using ServiceNow project automates the process of tracking and managing family expenses. It provides a centralized platform where users can record, categorize, and analyze daily or monthly expenses. The system ensures accuracy, transparency, and better financial planning through real-time dashboards and budget alerts.
@@ -28,5 +26,3 @@
   •	Business Rules (JavaScript)
   •	Dashboard & Reporting Tools
   •	Budget and Expense Tables
-
-
